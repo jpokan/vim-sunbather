@@ -224,7 +224,7 @@ hi link ALEErrorSign	SyntasticErrorSign
 hi link SignifySignAdd              DiffAdd
 hi link SignifySignDelete           DiffDelete
 hi link SignifySignChange           DiffChange
-hi link GitGutterAdd                LineNr
-hi link GitGutterDelete             LineNr
-hi link GitGutterChange             LineNr
-hi link GitGutterChangeDelete       LineNr
+hi link GitGutterAdd                DiffAdd
+hi link GitGutterDelete             DiffDelete
+hi link GitGutterChange             DiffChange
+hi link GitGutterChangeDelete       SpellBad
